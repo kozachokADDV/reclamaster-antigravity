@@ -270,7 +270,7 @@ h6 {
 /* ---- Giant Title ---- */
 .hero-title {
     font-size: clamp(3.2rem, 6.5vw, 8rem);
-    font-weight: 500;
+    font-weight: 650;
     line-height: 0.92;
     letter-spacing: -0.04em;
     color: var(--text);

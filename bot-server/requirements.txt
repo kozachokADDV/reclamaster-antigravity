@@ -1,0 +1,6 @@
+Flask
+requests
+python-telegram-bot
+viberbot
+python-dotenv
+webexteamssdk==1.6 ; python_version < "3.10" # Optional, demonstrating specific versions if needed
